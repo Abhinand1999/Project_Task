@@ -63,9 +63,8 @@ This application allows you to manage multiple todo projects, add and update tod
     ```
 
  **Run the backend server:**
-    ```bash
-    npm start
-    ```
+    bash
+    ```npm start```
 
 
 ## Testing
@@ -115,7 +114,7 @@ npm install
    npm star
 2. **Start the frontend server:**
    ```bash
-   npm start).
+   npm start
 **Open your browser** and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
 
