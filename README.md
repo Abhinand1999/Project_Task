@@ -61,10 +61,10 @@ This application allows you to manage multiple todo projects, add and update tod
     MONGO_URL="mongodb://localhost:27017/todo-management"
     JWT="your_secret_key"
     ```
+**Run the backend server:**
+```bash
+npm start
 
- **Run the backend server:**
-    bash
-    ```npm start```
 
 
 ## Testing
